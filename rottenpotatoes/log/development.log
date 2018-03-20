@@ -905,3 +905,6 @@ Migrating to AddDirectorToMovie (20180320164350)
   [1m[35mSQL (0.2ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20180320164350"]]
   [1m[36m (8.0ms)[0m  [1mcommit transaction[0m
   [1m[35mActiveRecord::SchemaMigration Load (0.1ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+
+
+Started GET "/assets/rails.png" for 165.91.13.186 at 2018-03-20 18:57:33 +0000
